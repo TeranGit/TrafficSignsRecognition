@@ -31,6 +31,7 @@ Make sure you have the following installed:
 - Pillow
 - NumPy
 - TensorFlow 2.12
+- Keras
 
 ### Installation
 
