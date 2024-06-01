@@ -26,23 +26,22 @@ This project leverages a pre-trained model to accurately classify various traffi
 
 Make sure you have the following installed:
 
-- Python 3.x
+- Python 3.9.13
 - Tkinter
 - Pillow
 - NumPy
-- Keras and TensorFlow
+- TensorFlow 2.12
 
 ### Installation
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/trafficSignsRecognition.git
-    cd trafficSignsRecognition
+    git clone https://github.com/TeranGit/TrafficSignsRecognition.git
     ```
 
 2. **Create and activate a virtual environment**:
     ```bash
-    python -m venv venv
+    py -m venv venv
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
     ```
 
@@ -76,7 +75,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the GLP License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
