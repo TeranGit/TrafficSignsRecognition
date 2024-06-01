@@ -12,6 +12,7 @@ A Traffic Signs Recognition Python project example, we will build a deep neural 
 With this model, we are able to read and understand traffic signs which are a very important task for all autonomous vehicles.
 This project leverages a pre-trained model to accurately classify various traffic signs using images. It's a fun and interactive way to test your knowledge about traffic signs or just to see some cool machine learning in action. Let's dive in! 🎉
 
+![Demonstration Image](demo.png)
 
 ## Features
 
