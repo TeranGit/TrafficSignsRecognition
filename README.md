@@ -1,4 +1,4 @@
-# TRAFFIC SIGNS RECOGNITION
+#### TRAFFIC SIGNS RECOGNITION
 
 Welcome to **Know Your Traffic Sign**, the ultimate traffic sign classification tool! 🚦
 
